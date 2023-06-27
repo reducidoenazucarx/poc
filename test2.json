@@ -19,7 +19,7 @@ paths:
     get:
       responses:
         '200':
-          description: This is a Test"><script>alert(1)</script>
+          description: This is a Test<script>alert(1)</script>
       tags:
         - accounts
       operationId: findAccounts
